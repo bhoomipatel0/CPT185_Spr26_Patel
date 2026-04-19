@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\bin\Debug\Cookies Project.exe.config
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\bin\Debug\Cookies Project.exe
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\bin\Debug\Cookies Project.pdb
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\bin\Debug\Cookies Project.xml
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.vbproj.AssemblyReference.cache
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies_Project.Form1.resources
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies_Project.Resources.resources
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.exe
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.xml
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.pdb
+\\Mac\Home\Documents\VB9e\Chap11\Databases\Cookies Project\Cookies Project\obj\Debug\Cookies Project.exe.config
